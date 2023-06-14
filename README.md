@@ -1,0 +1,2 @@
+# Data-Backup-IT-Disaster-Recovery
+The following project was to access the Data Backup & IT DRP process for the Alumni and Donor System (ADG). Incorporated is reports of obervations, risk, recommendations, and management responses. A detailed program guide was made to highlight the control, risk, activity, test plan, test results. Furthermore, an organized testsheet was made to anaylze the servers; SAS linux, LANGRIP, AWS. 
